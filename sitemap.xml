@@ -3,18 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://matheuscastanho.com/about-me/</loc>
+    <loc>http://matheuscastanho.com/about/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://matheuscastanho.com/</loc>
+    <loc>http://matheuscastanho.com/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://matheuscastanho.com/tags/</loc>
+    <loc>http://matheuscastanho.com/tags/</loc>
     <priority>0</priority>
   </url>
   
